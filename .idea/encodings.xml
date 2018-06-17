@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/classification.db" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi1.txt" charset="windows-1254" />
+<<<<<<< HEAD
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi10.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi2.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi3.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi4.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi5.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi6.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi7.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi8.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/ekonomi haberleri/ekonomi9.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil1.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil10.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil2.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil3.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil4.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil5.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil6.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil7.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil8.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/otomobil haberleri/otomobil9.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik1.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik10.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik2.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik3.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik4.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik5.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik6.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik7.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik8.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/saglık haberleri/saglik9.txt" charset="windows-1254" />
+=======
+>>>>>>> b76abeecca470612bf3835522e12d29ed81df742
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor1.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor2.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor4.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor5.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor6.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor7.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/spor haberleri/spor8.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/haberler/teknoloji haberleri/teknoloji1.txt" charset="windows-1254" />
+    <file url="file://$PROJECT_DIR$/spor.txt" charset="windows-1254" />
+  </component>
+</project>

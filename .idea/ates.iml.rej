@@ -1,0 +1,10 @@
+diff a/.idea/ates.iml b/.idea/ates.iml	(rejected hunks)
+@@ -5,7 +5,7 @@
+       <excludeFolder url="file://$MODULE_DIR$/venv" />
+       <excludeFolder url="file://$MODULE_DIR$/venv1" />
+     </content>
+-    <orderEntry type="jdk" jdkName="Python 3.6 (atess)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.6 (venv1)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+   <component name="TestRunnerService">
